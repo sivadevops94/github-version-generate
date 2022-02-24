@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+## [1.1.2]
+
 ## [1.1.1]
 ### Changed
 - Some inderect dependencies were updated by dependabot
